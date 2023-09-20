@@ -1,0 +1,29 @@
+.gradient {
+    background-image: linear-gradient(rgb(14, 183, 255), rgb(21, 123, 167));
+}
+
+
+.other-button {
+    border: none;
+    border-radius: 30%;
+    color: white;
+    background-color: rgb(1, 77, 144);
+}
+
+.phone {
+    max-height: 40vh;
+}
+
+.background {
+    background-color: rgb(21, 123, 167);
+}
+
+.footer {
+    background-color: rgb(76, 76, 76);
+}
+
+.middle-box {
+    border-radius: 1%;
+
+
+}
